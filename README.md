@@ -1,2 +1,1 @@
-# OOPS
-OOPS concepts
+# OOPS concepts
